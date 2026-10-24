@@ -1,0 +1,107 @@
+[2026-10-22 23:36:07,245] fedora/INFO/locust.main: Starting Locust 2.46.7
+[2026-10-22 23:36:07,245] fedora/INFO/locust.main: Run time limit set to 360 seconds
+[2026-10-22 23:36:07,246] fedora/INFO/locust.runners: Ramping to 80 users at a rate of 2.68 per second
+[2026-10-22 23:36:07,247] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:07,251] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:07,995] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:07,995] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:08,742] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:08,742] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:09,489] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:09,490] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:10,236] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:10,237] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:10,983] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:10,985] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:11,730] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:11,731] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:12,477] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:12,478] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:13,224] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:13,226] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:13,971] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:13,972] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:14,718] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:14,719] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:15,465] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:15,466] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:16,212] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:16,213] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:16,959] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:16,960] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:17,706] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:17,707] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:18,452] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:18,452] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:19,199] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:19,200] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:19,946] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:19,947] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:20,693] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:20,694] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:21,439] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:21,441] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:22,187] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:22,188] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:22,934] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:22,935] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:23,681] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:23,682] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:24,428] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:24,429] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:25,176] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:25,177] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:25,922] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:25,923] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:26,669] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:26,670] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:27,415] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:27,416] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:28,162] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:28,163] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:28,909] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:28,910] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:29,655] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:29,657] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:30,402] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:30,403] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:31,150] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:31,150] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:31,896] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:31,897] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:32,644] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:32,645] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:33,394] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:33,395] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:34,140] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:34,141] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:34,887] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:34,889] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:35,633] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:35,635] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:36,380] fedora/INFO/locust.runners: All users spawned: {"PetClinicUser": 80} (80 total users)
+[2026-10-22 23:36:36,380] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:36:36,382] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 23:42:07,030] fedora/INFO/locust.main: --run-time limit reached, shutting down
+[2026-10-22 23:42:07,115] fedora/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      GET /api/customer/owners                                                        7319     0(0.00%) |    372     174    1076    360 |   20.34        0.00
+GET      GET /api/customer/owners/{id}                                                   5660     0(0.00%) |     32       3     461      6 |   15.73        0.00
+GET      GET /api/vet/vets                                                               2595     0(0.00%) |     10       5     102      8 |    7.21        0.00
+POST     POST /api/customer/owners                                                        850     0(0.00%) |     34       4     657      7 |    2.36        0.00
+GET      on_start GET /api/customer/owners (aquecimento interno)                           80     0(0.00%) |    233     182     280    230 |    0.22        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                     16504     0(0.00%) |    180       3    1076     91 |   45.86        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      GET /api/customer/owners                                                              360    400    420    440    510    580    660    700    810   1100   1100   7319
+GET      GET /api/customer/owners/{id}                                                           6     11     20     41    110    160    230    270    350    460    460   5660
+GET      GET /api/vet/vets                                                                       8     10     11     13     18     22     30     38     82    100    100   2595
+POST     POST /api/customer/owners                                                               7     13     23     43    120    180    210    280    660    660    660    850
+GET      on_start GET /api/customer/owners (aquecimento interno)                               230    250    260    260    270    270    270    280    280    280    280     80
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                             91    290    340    370    430    500    590    650    780    970   1100  16504
+

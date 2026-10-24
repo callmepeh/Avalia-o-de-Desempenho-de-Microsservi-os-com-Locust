@@ -1,0 +1,55 @@
+INICIO: qui 22 out 2026 23:28:04 -03
+==> Verificando aplicação em http://localhost:18080 ...
+OK: aplicação responder com sucesso.
+
+==============================================================
+ Perfis   : read
+ Cenários : 80 150 usuários
+ Reps     : 10
+ Runs     : 20 (de um total de 20)
+ Aquec.   : 1m (descartado) | Medição: 6m
+ Alvo     : http://localhost:18080
+ Tempo est: 160 min (aprox.)
+==============================================================
+
+
+==============================================================
+[1/20] Run=read_80u_rep1  users=80  profile=read
+==============================================================
+  [1/2] Aquecimento (1m) ...
+  [2/2] Medição (6m) ...
+  OK -> results/raw/read_80u_rep1_stats.csv
+
+==============================================================
+[2/20] Run=read_80u_rep2  users=80  profile=read
+==============================================================
+  [1/2] Aquecimento (1m) ...
+  [2/2] Medição (6m) ...
+  OK -> results/raw/read_80u_rep2_stats.csv
+
+==============================================================
+[3/20] Run=read_80u_rep3  users=80  profile=read
+==============================================================
+  [1/2] Aquecimento (1m) ...
+  [2/2] Medição (6m) ...
+  OK -> results/raw/read_80u_rep3_stats.csv
+
+==============================================================
+[4/20] Run=read_80u_rep4  users=80  profile=read
+==============================================================
+  [1/2] Aquecimento (1m) ...
+  [2/2] Medição (6m) ...
+  OK -> results/raw/read_80u_rep4_stats.csv
+
+==============================================================
+[5/20] Run=read_80u_rep5  users=80  profile=read
+==============================================================
+  [1/2] Aquecimento (1m) ...
+  [2/2] Medição (6m) ...
+  OK -> results/raw/read_80u_rep5_stats.csv
+
+==============================================================
+[6/20] Run=read_80u_rep6  users=80  profile=read
+==============================================================
+  [1/2] Aquecimento (1m) ...
+  [2/2] Medição (6m) ...

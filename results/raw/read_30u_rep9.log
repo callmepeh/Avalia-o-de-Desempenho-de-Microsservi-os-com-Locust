@@ -1,0 +1,57 @@
+[2026-10-22 19:46:01,814] fedora/INFO/locust.main: Starting Locust 2.46.7
+[2026-10-22 19:46:01,815] fedora/INFO/locust.main: Run time limit set to 360 seconds
+[2026-10-22 19:46:01,815] fedora/INFO/locust.runners: Ramping to 30 users at a rate of 1.01 per second
+[2026-10-22 19:46:01,816] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:02,808] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:03,799] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:04,791] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:05,782] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:06,773] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:07,764] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:08,755] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:09,745] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:10,737] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:11,727] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:12,718] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:13,709] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:14,699] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:15,690] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:16,681] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:17,672] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:18,665] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:19,656] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:20,647] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:21,639] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:22,629] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:23,620] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:24,611] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:25,601] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:26,592] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:27,582] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:28,573] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:29,564] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:46:30,554] fedora/INFO/locust.runners: All users spawned: {"PetClinicUser": 30} (30 total users)
+[2026-10-22 19:46:30,555] fedora/INFO/petclinic_load: Usuário iniciando (perfil=read) -> http://localhost:18080
+[2026-10-22 19:52:01,632] fedora/INFO/locust.main: --run-time limit reached, shutting down
+[2026-10-22 19:52:01,668] fedora/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      GET /api/customer/owners                                                        2929     0(0.00%) |    183     137     314    180 |    8.14        0.00
+GET      GET /api/customer/owners/{id}                                                   2282     0(0.00%) |      5       2      53      5 |    6.34        0.00
+GET      GET /api/vet/vets                                                                991     0(0.00%) |      5       3      42      5 |    2.75        0.00
+POST     POST /api/customer/owners                                                        324     0(0.00%) |      5       3      46      5 |    0.90        0.00
+GET      on_start GET /api/customer/owners (aquecimento interno)                           30     0(0.00%) |    159     139     203    160 |    0.08        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                      6556     0(0.00%) |     85       2     314      6 |   18.22        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      GET /api/customer/owners                                                              180    190    200    200    220    230    250    270    310    310    310   2929
+GET      GET /api/customer/owners/{id}                                                           5      5      5      5      6      9     15     19     40     53     53   2282
+GET      GET /api/vet/vets                                                                       5      6      6      6      7     11     17     21     43     43     43    991
+POST     POST /api/customer/owners                                                               5      6      6      6      7      9     16     19     47     47     47    324
+GET      on_start GET /api/customer/owners (aquecimento interno)                               160    160    160    180    190    190    200    200    200    200    200     30
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                              6    160    180    180    200    210    230    250    290    310    310   6556
+

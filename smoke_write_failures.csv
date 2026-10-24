@@ -1,0 +1,14 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 10 não encontrado (HTTP 404)'),4,2026-10-22T17:51:47Z,2026-10-22T17:52:07Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 8 não encontrado (HTTP 404)'),3,2026-10-22T17:51:49Z,2026-10-22T17:52:08Z
+GET,GET /api/vet/vets,CatchResponseError('HTTP 404'),15,2026-10-22T17:51:55Z,2026-10-22T17:52:15Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 6 não encontrado (HTTP 404)'),2,2026-10-22T17:51:53Z,2026-10-22T17:52:12Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 5 não encontrado (HTTP 404)'),3,2026-10-22T17:51:58Z,2026-10-22T17:52:01Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 9 não encontrado (HTTP 404)'),3,2026-10-22T17:51:50Z,2026-10-22T17:52:09Z
+GET,on_start GET /api/customer/owners (aquecimento interno),HTTPError('404 Client Error: Not Found for url: on_start GET /api/customer/owners (aquecimento interno)'),5,2026-10-22T17:51:46Z,2026-10-22T17:51:50Z
+POST,POST /api/customer/owners,CatchResponseError('HTTP 404'),32,2026-10-22T17:51:47Z,2026-10-22T17:52:14Z
+GET,GET /api/customer/owners,CatchResponseError('HTTP 404'),20,2026-10-22T17:51:46Z,2026-10-22T17:52:10Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 1 não encontrado (HTTP 404)'),1,2026-10-22T17:52:12Z,2026-10-22T17:52:12Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 7 não encontrado (HTTP 404)'),3,2026-10-22T17:51:49Z,2026-10-22T17:52:05Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 2 não encontrado (HTTP 404)'),4,2026-10-22T17:51:58Z,2026-10-22T17:52:11Z
+GET,GET /api/customer/owners/{id},CatchResponseError('Owner 3 não encontrado (HTTP 404)'),1,2026-10-22T17:52:12Z,2026-10-22T17:52:12Z

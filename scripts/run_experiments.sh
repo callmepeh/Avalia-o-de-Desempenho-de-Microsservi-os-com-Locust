@@ -77,13 +77,17 @@ fi
 mkdir -p results/raw results/tables results/charts
 
 # ------------------- checagem da aplicação -------------------
-echo "==> Verificando aplicação em ${TARGET_HOST} ..."
-if ! curl -fsS -o /dev/null --max-time 10 "${TARGET_HOST}/api/customer/owners"; then
-  echo "ERRO: aplicação não respondeu em ${TARGET_HOST}/api/customers/owners." >&2
-  echo "      Suba o PetClinic antes: docker compose up -d --wait" >&2
-  exit 1
+if [[ -n "${DRYRUN:-}" ]]; then
+  echo "==> Modo dry-run: pulando verificação da aplicação."
+else
+  echo "==> Verificando aplicação em ${TARGET_HOST} ..."
+  if ! curl -fsS -o /dev/null --max-time 10 "${TARGET_HOST}/api/customer/owners" 2>/dev/null; then
+    echo "ERRO: aplicação não respondeu em ${TARGET_HOST}/api/customer/owners." >&2
+    echo "      Suba o PetClinic antes: docker compose up -d --wait" >&2
+    exit 1
+  fi
+  echo "OK: aplicação responder com sucesso."
 fi
-echo "OK: aplicação responder com sucesso."
 
 # ------------------- planejamento dos runs -------------------
 plan=()

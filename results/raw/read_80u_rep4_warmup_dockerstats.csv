@@ -1,0 +1,21 @@
+timestamp,container,cpu_percent,mem_used_mb,mem_limit_mb,mem_percent
+1792723748,api-gateway,7.32,283.1MiB , 7.099GiB,3.89
+1792723748,visits-service,0.15,210.3MiB , 7.099GiB,2.89
+1792723748,customers-service,257.58,637.9MiB , 7.099GiB,8.78
+1792723748,vets-service,0.13,306.1MiB , 7.099GiB,4.21
+1792723760,api-gateway,23.16,283.5MiB , 7.099GiB,3.90
+1792723760,visits-service,0.19,210MiB , 7.099GiB,2.89
+1792723760,customers-service,564.86,638.6MiB , 7.099GiB,8.79
+1792723760,vets-service,0.94,307MiB , 7.099GiB,4.22
+1792723773,api-gateway,34.04,284.5MiB , 7.099GiB,3.91
+1792723773,visits-service,0.15,210.2MiB , 7.099GiB,2.89
+1792723773,customers-service,1037.04,640.7MiB , 7.099GiB,8.81
+1792723773,vets-service,2.28,307.5MiB , 7.099GiB,4.23
+1792723785,api-gateway,41.84,285.2MiB , 7.099GiB,3.92
+1792723785,visits-service,0.25,210.3MiB , 7.099GiB,2.89
+1792723785,customers-service,1054.82,640.7MiB , 7.099GiB,8.81
+1792723785,vets-service,6.19,307MiB , 7.099GiB,4.22
+1792723797,api-gateway,36.30,285.8MiB , 7.099GiB,3.93
+1792723797,visits-service,11.17,211.6MiB , 7.099GiB,2.91
+1792723797,customers-service,1033.43,652.8MiB , 7.099GiB,8.98
+1792723797,vets-service,1.75,307.7MiB , 7.099GiB,4.23
